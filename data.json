@@ -1,0 +1,186 @@
+[
+    {
+        "name": "Miles Morales",
+        "alias": "Spider-Man",
+        "age": 16,
+        "superpowers": [
+            "Spider-Sense",
+            "Web-Shooting",
+            "Wall-Crawling"
+        ],
+        "origin": "Brooklyn, New York",
+        "friends": [
+            {
+                "name": "Gwen Stacy",
+                "relation": "Friend"
+            },
+            {
+                "name": "Peter B. Parker",
+                "relation": "Mentor"
+            }
+        ]
+    },
+    {
+        "name": "Gwen Stacy",
+        "alias": "Spider-Woman",
+        "age": 16,
+        "superpowers": [
+            "Spider-Sense",
+            "Web-Shooting",
+            "Dimensional Travel"
+        ],
+        "origin": "Alternate Universe",
+        "friends": [
+            {
+                "name": "Miles Morales",
+                "relation": "Friend"
+            },
+            {
+                "name": "Peter B. Parker",
+                "relation": "Ally"
+            }
+        ]
+    },
+    {
+        "name": "Peter B. Parker",
+        "alias": "Spider-Man",
+        "age": 38,
+        "superpowers": [
+            "Spider-Sense",
+            "Web-Shooting",
+            "Superhuman Strength"
+        ],
+        "origin": "Alternate Universe",
+        "friends": [
+            {
+                "name": "Miles Morales",
+                "relation": "Mentee"
+            },
+            {
+                "name": "Gwen Stacy",
+                "relation": "Ally"
+            }
+        ]
+    },
+    {
+        "name": "Spider-Man Noir",
+        "alias": "Spider-Man Noir",
+        "age": 29,
+        "superpowers": [
+            "Hand-to-Hand Combat",
+            "Noir Vision"
+        ],
+        "origin": "1930s New York",
+        "friends": [
+            {
+                "name": "Peni Parker",
+                "relation": "Ally"
+            },
+            {
+                "name": "Spider-Ham",
+                "relation": "Ally"
+            }
+        ]
+    },
+    {
+        "name": "Peni Parker",
+        "alias": "SP//dr",
+        "age": 14,
+        "superpowers": [
+            "Control Over Mech Suit",
+            "Interface with SP//dr"
+        ],
+        "origin": "Alternate Universe",
+        "friends": [
+            {
+                "name": "Spider-Man Noir",
+                "relation": "Ally"
+            },
+            {
+                "name": "Spider-Ham",
+                "relation": "Ally"
+            }
+        ]
+    },
+    {
+        "name": "Spider-Ham",
+        "alias": "Spider-Ham",
+        "age": "Unknown",
+        "superpowers": [
+            "Cartoon Physics",
+            "Acrobatics"
+        ],
+        "origin": "Alternate Universe",
+        "friends": [
+            {
+                "name": "Spider-Man Noir",
+                "relation": "Ally"
+            },
+            {
+                "name": "Peni Parker",
+                "relation": "Ally"
+            }
+        ]
+    },
+    {
+        "name": "Doc Ock (Olivia Octavius)",
+        "alias": "Doc Ock",
+        "age": "Unknown",
+        "superpowers": [
+            "Mechanical Tentacles",
+            "Genius-Level Intellect"
+        ],
+        "origin": "Alternate Universe",
+        "friends": [
+            {
+                "name": "Kingpin",
+                "relation": "Ally"
+            }
+        ]
+    },
+    {
+        "name": "Kingpin (Wilson Fisk)",
+        "alias": "Kingpin",
+        "age": "Unknown",
+        "superpowers": [
+            "Superhuman Strength",
+            "Criminal Mastermind"
+        ],
+        "origin": "Alternate Universe",
+        "friends": [
+            {
+                "name": "Doc Ock (Olivia Octavius)",
+                "relation": "Ally"
+            }
+        ]
+    },
+    {
+        "name": "Aunt May",
+        "alias": "Aunt May",
+        "age": "Unknown",
+        "superpowers": [],
+        "origin": "Alternate Universe",
+        "friends": [
+            {
+                "name": "Peter B. Parker",
+                "relation": "Ally"
+            }
+        ]
+    },
+    {
+        "name": "Uncle Aaron (The Prowler)",
+        "alias": "The Prowler",
+        "age": "Unknown",
+        "superpowers": [
+            "Stealth",
+            "Crime Expertise"
+        ],
+        "origin": "Alternate Universe",
+        "friends": [
+            {
+                "name": "Miles Morales",
+                "relation": "Family"
+            }
+        ]
+    }
+]
